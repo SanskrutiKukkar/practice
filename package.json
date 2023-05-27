@@ -1,0 +1,19 @@
+{
+  "name": "wad_practice",
+  "version": "1.0.0",
+  "main": "assng2c.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SanskrutiKukkar/practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SanskrutiKukkar/practice/issues"
+  },
+  "homepage": "https://github.com/SanskrutiKukkar/practice#readme",
+  "description": ""
+}
